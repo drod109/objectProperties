@@ -1,0 +1,2 @@
+# objectProperties
+Simple alarm object
